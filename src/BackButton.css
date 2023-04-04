@@ -1,0 +1,13 @@
+.back-btn{
+    padding: 20px;
+    margin-left: 170px;
+    margin-top: 70px;
+    font-size: auto;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.back-btn:active{
+    transform: scale(0.98);
+}

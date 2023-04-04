@@ -1,0 +1,19 @@
+.bar-container{
+    background: #aee6e6bc;
+    align-items: justify;
+    margin: 0px 0px 0px 0px;
+}
+
+.car-chace{
+    /* background: #423f37; */
+    color: #1d1d1c;
+    height: 50px;
+    display: flex;
+    /* justify-content: space-between; */
+    /* padding: 0.2rem calc((100vw - 1000px) / 2); */
+    /* z-index: 12; */
+    font-size: 20px;
+    margin: 0px;
+    margin-left: 80px;
+    padding: 10px;
+}
