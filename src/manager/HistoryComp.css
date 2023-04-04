@@ -1,0 +1,21 @@
+.history-box{
+    width: 1250px;
+    height: 80px;
+    background-color : rgb(189, 202, 189);
+    border: 10px;
+    margin: 40px;
+    border-radius: 20px;
+    
+}
+
+.his-bg{
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../components/history.png");
+    min-height: 100vh;
+}
+body, html{
+    height: 100%;
+  }
